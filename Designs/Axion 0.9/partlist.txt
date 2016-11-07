@@ -1,0 +1,151 @@
+Partlist
+
+Exported from Axion.sch at 2016/11/06 23:59
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value              Device                              Package            Library                  Sheet
+
+C1       0.1u               C-EUC1608                           C1608              resistor                 1
+C2       0.1u               C-EUC1608                           C1608              resistor                 1
+C3       0.1u               C-EUC1608                           C1608              resistor                 1
+C4       33u                CPOL-EUE2-5                         E2-5               resistor                 1
+C5       33u                CPOL-EUE2-5                         E2-5               resistor                 1
+C6       0.1u               C-EUC1608                           C1608              resistor                 1
+C7       0.1u               C-EUC1608                           C1608              resistor                 1
+C8       0.1u               C-EUC1608                           C1608              resistor                 1
+C9       33u                CPOL-EUE2-5                         E2-5               resistor                 1
+C10      0.1u               C-EUC1608                           C1608              resistor                 1
+C11      0.1u               C-EUC1608                           C1608              resistor                 1
+C12      0.1u               C-EUC1608                           C1608              resistor                 1
+C13      10u                CPOL-EUE2-5                         E2-5               resistor                 1
+C14      0.1u               C-EUC1608                           C1608              resistor                 1
+C15      0.1u               C-EUC1608                           C1608              resistor                 1
+C16      0.1u               C-EUC1608                           C1608              resistor                 1
+C17      1u                 CPOL-EUE2-5                         E2-5               resistor                 1
+C18      0.1u               C-EUC1608                           C1608              resistor                 1
+C19      10u                CPOL-EUE2-5                         E2-5               resistor                 1
+C20      0.1u               C-EUC1608                           C1608              resistor                 1
+C21      10u                CPOL-EUE2-5                         E2-5               resistor                 1
+C22      0.1u               C-EUC1608                           C1608              resistor                 1
+C23      10u                CPOL-EUE2-5                         E2-5               resistor                 1
+C24      220p               C-EUC0805                           C0805              resistor                 1
+C25      1u                 CPOL-EUE2-5                         E2-5               resistor                 1
+C26      10u                CPOL-EUE2-5                         E2-5               resistor                 1
+C27      0.022u             C-EUC1608                           C1608              resistor                 1
+C28      0.01u              C-EUC1608                           C1608              resistor                 1
+C29      0.01u              C-EUC1608                           C1608              resistor                 1
+C30      1u                 CPOL-EUE2-5                         E2-5               resistor                 1
+C31      220p               C-EUC0805                           C0805              resistor                 1
+C32      22p                C-EUC1608                           C1608              resistor                 1
+C33      22p                C-EUC1608                           C1608              resistor                 1
+C34      0.1u               C-EUC1608                           C1608              resistor                 1
+C35      10u                CPOL-EUE2-5                         E2-5               resistor                 1
+C36      220p               C-EUC0805                           C0805              resistor                 1
+D1       45V10A             SCHOTTKY-DIODEDO201T15              DO201T15           diode-1                  1
+I1                          BLM18                               1608(1.6*0.8MM)    Inductor                 1
+I2                          BLM18                               1608(1.6*0.8MM)    Inductor                 1
+IC1      3.3V               78XXS                               78XXS              v-reg                    1
+IC2      5V                 78XXS                               78XXS              v-reg                    1
+JP1                         PINHD-1X3                           1X03               pinhead                  1
+JP2                         PINHD-1X3                           1X03               pinhead                  1
+JP3                         PINHD-1X3                           1X03               pinhead                  1
+JP4                         PINHD-1X3                           1X03               pinhead                  1
+JP5                         PINHD-1X3                           1X03               pinhead                  1
+JP6                         PINHD-1X3                           1X03               pinhead                  1
+JP7                         PINHD-1X3                           1X03               pinhead                  1
+JP8                         PINHD-1X3                           1X03               pinhead                  1
+JP9                         PINHD-1X3                           1X03               pinhead                  1
+JP10                        PINHD-1X3                           1X03               pinhead                  1
+JP11                        PINHD-1X3                           1X03               pinhead                  1
+JP12                        PINHD-1X3                           1X03               pinhead                  1
+JP13                        PINHD-1X3                           1X03               pinhead                  1
+JP14                        PINHD-1X3                           1X03               pinhead                  1
+JP15                        PINHD-1X3                           1X03               pinhead                  1
+JP16                        PINHD-1X3                           1X03               pinhead                  1
+JP17                        PINHD-1X3                           1X03               pinhead                  1
+JP18                        PINHD-1X3                           1X03               pinhead                  1
+JP19                        PINHD-1X3                           1X03               pinhead                  1
+JP20                        PINHD-1X3                           1X03               pinhead                  1
+JP21                        PINHD-1X3                           1X03               pinhead                  1
+JP22                        PINHD-1X3                           1X03               pinhead                  1
+JP23     LSM9DS1 IMU module PINHD-1X4                           1X04               pinhead                  1
+JP24     LCD                PINHD-1X8                           1X08               pinhead                  1
+JP25     DM3AT-ST-PEJ       DM3AT-ST-PEJ                        DM3AT-SF-PEJ       SD Card Socket           1
+JP26     HDC1000 module     PINHD-1X5                           1X05               pinhead                  1
+JP27     PCTRL              PINHD-1X2                           1X02               pinhead                  1
+JP28     SP                 PINHD-1X2                           1X02               pinhead                  1
+JP30     FAN                PINHD-1X2                           1X02               pinhead                  1
+JP32     MIC                PINHD-1X2                           1X02               pinhead                  1
+LED1     LED1608            LED1608                             LED1608            generic                  1
+Q2       12.288Mhz          CRYSTALHC49S                        HC49/S             adafruit                 1
+R1       220                R-US_M1206                          M1206              resistor                 1
+R2       220                R-US_M1206                          M1206              resistor                 1
+R3       220                R-US_M1206                          M1206              resistor                 1
+R4       220                R-US_M1206                          M1206              resistor                 1
+R5       10k                R-US_M1206                          M1206              resistor                 1
+R6       220                R-US_M1206                          M1206              resistor                 1
+R7       220                R-US_M1206                          M1206              resistor                 1
+R8       220                R-US_M1206                          M1206              resistor                 1
+R9       220                R-US_M1206                          M1206              resistor                 1
+R10      220                R-US_M1206                          M1206              resistor                 1
+R11      220                R-US_M1206                          M1206              resistor                 1
+R12      220                R-US_M1206                          M1206              resistor                 1
+R13      220                R-US_M1206                          M1206              resistor                 1
+R14      220                R-US_M1206                          M1206              resistor                 1
+R15      220                R-US_M1206                          M1206              resistor                 1
+R16      220                R-US_M1206                          M1206              resistor                 1
+R17      220                R-US_M1206                          M1206              resistor                 1
+R18      10k                R-US_M1206                          M1206              resistor                 1
+R19      220                R-US_M1206                          M1206              resistor                 1
+R20      220                R-US_M1206                          M1206              resistor                 1
+R21      220                R-US_M1206                          M1206              resistor                 1
+R22      220                R-US_M1206                          M1206              resistor                 1
+R23      220                R-US_M1206                          M1206              resistor                 1
+R24      220                R-US_M1206                          M1206              resistor                 1
+R25      200k               R-US_0309/V                         0309V              resistor                 1
+R26      47k                R-US_R0603                          R0603              resistor                 1
+R27      2.2k               R-US_R1206                          R1206              resistor                 1
+R28      100k               R-US_R0603                          R0603              resistor                 1
+R29      100k               R-US_R0603                          R0603              resistor                 1
+R30      10k                R-US_M1206                          M1206              resistor                 1
+R31      220                R-US_M1206                          M1206              resistor                 1
+R32      10k                R-US_M1206                          M1206              resistor                 1
+R33      100k               R-US_R0603                          R0603              resistor                 1
+R34      576                R-US_M1206                          M1206              resistor                 1
+R35      680                R-US_R1206                          R1206              resistor                 1
+R36      10k                R-US_M1206                          M1206              resistor                 1
+R37      10k                R-US_M1206                          M1206              resistor                 1
+R39      47k                R-US_R0603                          R0603              resistor                 1
+R40      330                R-US_R1206                          R1206              resistor                 1
+R41      5.6k               R-US_R1206                          R1206              resistor                 1
+R42      5.6k               R-US_R1206                          R1206              resistor                 1
+R43      5.6k               R-US_R1206                          R1206              resistor                 1
+R44      5.6k               R-US_R1206                          R1206              resistor                 1
+S1       TL32PO             TL32PO                              TL3XPO             switch                   1
+SJ1                         SJ2W                                SJ_2               Jumper                   1
+TP1      TESTPAD-R-AUTO-0.5 TESTPAD-R-AUTO-0.5                  ROUND-AUTO-0.5     testpad                  1
+TP2      TESTPAD-R-AUTO-0.5 TESTPAD-R-AUTO-0.5                  ROUND-AUTO-0.5     testpad                  1
+TP3      TESTPAD-R-AUTO-0.5 TESTPAD-R-AUTO-0.5                  ROUND-AUTO-0.5     testpad                  1
+TP4      TESTPAD-R-AUTO-0.5 TESTPAD-R-AUTO-0.5                  ROUND-AUTO-0.5     testpad                  1
+TP5      TESTPAD-R-AUTO-0.5 TESTPAD-R-AUTO-0.5                  ROUND-AUTO-0.5     testpad                  1
+TP6      TESTPAD-R-AUTO-0.5 TESTPAD-R-AUTO-0.5                  ROUND-AUTO-0.5     testpad                  1
+TP7      TESTPAD-R-AUTO-0.5 TESTPAD-R-AUTO-0.5                  ROUND-AUTO-0.5     testpad                  1
+TP8      TESTPAD-R-AUTO-0.5 TESTPAD-R-AUTO-0.5                  ROUND-AUTO-0.5     testpad                  1
+U1                          PCA9685                             TSSOP28            adafruit                 1
+U2       Intel Edison       EDISON_CONNECTOR_FULLMOUNTING_HOLES EDISON_DAUGHTER    SparkFun-Boards          1
+U3                          PCA9685                             TSSOP28            adafruit                 1
+U4       FT232RLSSOP        FT232RLSSOP                         SSOP28DB           SparkFun-DigitalIC       1
+U5       PCA9306D           PCA9306D,118                        SOIC127P600X175-8N NXP_By_element14_Batch_1 1
+U6       74HC4050           HEX_CONVERTER                       SO016              SparkFun-DigitalIC       1
+U7       TPA2005D1DGN       TPA2005D1DGN                        POWER-SOP8         SparkFun-AnalogIC        1
+U8                          TXB0108PWR                          TSSOP20            adafruit                 1
+U9                          TXB0108PWR                          TSSOP20            adafruit                 1
+U10      MIC2039            MIC2039                             SOT23-6            MIC2039                  1
+U11      WM8731             WM8731                              SSOP28             Oles komponentbibliotek  1
+X1                          MKDSN1,5/2-5,08                     MKDSN1,5/2-5,08    con-phoenix-508          1
+X2       ZX62R-AB-5P        ZX62R-AB-5P                         ZX62R-AB-5P        hirose-zx                1
+X3       ST-005-G           ST-005-G                            ST-005-G           audio-connectors         1
+X4       ZX62R-B-5P         ZX62R-B-5P                          ZX62R-B-5P         hirose-zx                1
